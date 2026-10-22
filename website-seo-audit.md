@@ -34,3 +34,14 @@ This is a sample audit checklist, not an audit of a verified live website.
 **Observation:** The title contains relevant real estate keywords but could be more concise.
 
 **Recommendation:** Use a clear and concise title that describes the website's main services.
+
+
+### 2. Meta Description
+
+**Current Description:** Search Real Estate Properties in India at Magicbricks, the best property site in India. Buy, Sell, Rent residential and commercial properties.
+
+**Status:** Good, with Room for Improvement
+
+**Observation:** The description includes relevant real estate keywords and mentions buying, selling, and renting properties.
+
+**Recommendation:** Make the description more natural, clear, and engaging for users.
