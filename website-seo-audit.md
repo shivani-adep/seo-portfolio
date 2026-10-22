@@ -19,3 +19,18 @@ This checklist helps identify possible on-page SEO improvements.
 
 ## Note
 This is a sample audit checklist, not an audit of a verified live website.
+
+
+## Real Website Audit: MagicBricks
+
+**Website:** https://www.magicbricks.com/
+
+### 1. Title Tag
+
+**Current Title:** Real Estate | Property in India | Buy/Sale/Rent Properties | MagicBricks
+
+**Status:** Needs Improvement
+
+**Observation:** The title contains relevant real estate keywords but could be more concise.
+
+**Recommendation:** Use a clear and concise title that describes the website's main services.
