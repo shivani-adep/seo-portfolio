@@ -45,3 +45,12 @@ This is a sample audit checklist, not an audit of a verified live website.
 **Observation:** The description includes relevant real estate keywords and mentions buying, selling, and renting properties.
 
 **Recommendation:** Make the description more natural, clear, and engaging for users.
+
+
+### 3. H1 Heading
+
+**Status:** Needs Further Investigation
+
+**Observation:** The H1 tag was not found during the initial check of the page source. H2 tags were found.
+
+**Recommendation:** Check the rendered webpage to confirm whether an H1 heading is present. Ensure the page has a clear main heading.
